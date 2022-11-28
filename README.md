@@ -1,7 +1,6 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=%20OSS%20TeamProject&fontSize=60)
-<br><br>
-## 💻 **QA-6 Group Member**
+
+## 💻 **QA-6**
 |변규호|
 |------------------------------|-----|----|----|-----|----|
 |<a href="https://github.com/gyu1123"><img src="https://img.shields.io/badge/gyu1123-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|  
