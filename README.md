@@ -1,8 +1,9 @@
 <div align="center">
 
 ## 💻 **QA-6**
-|변규호|
-|------------------------------|-----|----|----|-----|----|
+  
+        변규호    
+  
 |<a href="https://github.com/gyu1123"><img src="https://img.shields.io/badge/gyu1123-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|  
   
 <br>
@@ -27,6 +28,19 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=ffffff"/>  
 <br>
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=ffffff"/>  
-<br><br><br>
+<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff"/>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=ffffff"/>
+<br>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyu1123&show_icons=true&theme=radical)
+  
+<br><br><br><br><br>
+  
 
