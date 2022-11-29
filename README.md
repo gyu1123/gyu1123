@@ -18,6 +18,7 @@
 <a href="https://github.com/gyu1123/gyu1123/issues"><img src="https://img.shields.io/github/issues/gyu1123/gyu1123" alt="Issues Badge"/></a>
 <a href="https://github.com/gyu1123/gyu1123/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/gyu1123/gyu1123?color=2b9348"></a>
 
+
 <br>
   
 ## 📖 **Assignment**
@@ -33,12 +34,11 @@
   
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=echo2719&theme=default&hide_border=true&include_all_commits=false&count_private=true)
 
-[![](https://raw.githubusercontent.com/little7279/for-profile-test/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)&nbsp;&nbsp;[![](https://raw.githubusercontent.com/little7279/for-profile-test/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-&nbsp;[![](https://raw.githubusercontent.com/little7279/for-profile-test/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-  
+
+
+
 <Br>
   
 <h3>Things I code with</h3>  
