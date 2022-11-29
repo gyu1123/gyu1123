@@ -1,10 +1,15 @@
 <div align="center">
-
-## 💻 **QA-6**
   
-        변규호    
+### Hi there 👋
   
-|<a href="https://github.com/gyu1123"><img src="https://img.shields.io/badge/gyu1123-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|  
+  
+       안녕하세요 변규호입니다.  👋👋
+  
+<a href="https://github.com/gyu1123"><img src="https://img.shields.io/badge/gyu1123-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>
+  
+<h1>Hey! Nice to see you.</h1>
+  
+<p>Welcome to my page! </br> I'm Gyuho byun,. <img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="100"/> <b>Seoul, Korea</b>, currently living in <img src="https://user-images.githubusercontent.com/70050528/189471349-b61089ef-38fa-4c0a-acd5-776f094f0809.png" width="20"/> <b>Seoul, Korea</b>. </p>
   
 <br>
   
@@ -18,8 +23,13 @@
 | 세부 팀과제 4 | 교재(git 교과서) 8장 정리 | [git 교과서 8장 정리](https://github.com/robotos1/TeamProject/blob/bda0486fa702f531276ec3980eba956396618c63/git%20%EA%B5%90%EA%B3%BC%EC%84%9C%208%EC%9E%A5%20%EC%A0%95%EB%A6%AC.md) |  
 | 세부 팀과제 5 | 교재(git 교과서) 9장 정리 | [git 교과서 9장 정리](https://github.com/robotos1/TeamProject/blob/bda0486fa702f531276ec3980eba956396618c63/git%20%EA%B5%90%EA%B3%BC%EC%84%9C%209%EC%9E%A5%20%EC%A0%95%EB%A6%AC.md) |
   
+<br>
+  <img src="http://mazandi.herokuapp.com/api?handle={gyu1123}&theme=warm"/>
+
   
 <Br>
+  
+<h3>Things I code with</h3>  
   
 ## ✏️ **Tool**
   
@@ -41,6 +51,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyu1123&show_icons=true&theme=radical)
   
-<br><br><br><br><br>
+<br><br><br><br><br><br>
   
 
