@@ -11,6 +11,13 @@
   
 <p>Welcome to my page! </br> I'm Gyuho byun,. <img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="100"/> <b>Seoul, Korea</b>, currently living in <img src="https://user-images.githubusercontent.com/70050528/189471349-b61089ef-38fa-4c0a-acd5-776f094f0809.png" width="20"/> <b>Seoul, Korea</b>. </p>
   
+## My GitHub🌱
+<a href="https://github.com/9dongb/9dongb/stargazers"><img src="https://img.shields.io/github/stars/9dongb/9dongb" alt="Stars Badge"/></a>
+<a href="https://github.com/9dongb/9dongb/network/members"><img src="https://img.shields.io/github/forks/9dongb/9dongb" alt="Forks Badge"/></a>
+<a href="https://github.com/9dongb/9dongb/pulls"><img src="https://img.shields.io/github/issues-pr/9dongb/9dongb" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/9dongb/9dongb/issues"><img src="https://img.shields.io/github/issues/9dongb/9dongb" alt="Issues Badge"/></a>
+<a href="https://github.com/9dongb/9dongb/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/9dongb/9dongb?color=2b9348"></a>
+
 <br>
   
 ## 📖 **Assignment**
@@ -27,13 +34,6 @@
 <br>
   <img src="http://mazandi.herokuapp.com/api?handle={gyu1123}&theme=warm"/>
   
-<br>
-## My GitHub🌱
-<a href="https://github.com/9dongb/9dongb/stargazers"><img src="https://img.shields.io/github/stars/9dongb/9dongb" alt="Stars Badge"/></a>
-<a href="https://github.com/9dongb/9dongb/network/members"><img src="https://img.shields.io/github/forks/9dongb/9dongb" alt="Forks Badge"/></a>
-<a href="https://github.com/9dongb/9dongb/pulls"><img src="https://img.shields.io/github/issues-pr/9dongb/9dongb" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/9dongb/9dongb/issues"><img src="https://img.shields.io/github/issues/9dongb/9dongb" alt="Issues Badge"/></a>
-<a href="https://github.com/9dongb/9dongb/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/9dongb/9dongb?color=2b9348"></a>
 
   
 <Br>
@@ -60,6 +60,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyu1123&show_icons=true&theme=radical)
   
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
   
 
