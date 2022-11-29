@@ -12,11 +12,11 @@
 <p>Welcome to my page! </br> I'm Gyuho byun,. <img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="100"/> <b>Seoul, Korea</b>, currently living in <img src="https://user-images.githubusercontent.com/70050528/189471349-b61089ef-38fa-4c0a-acd5-776f094f0809.png" width="20"/> <b>Seoul, Korea</b>. </p>
   
 ## My GitHub🌱
-<a href="https://github.com/9dongb/9dongb/stargazers"><img src="https://img.shields.io/github/stars/gyu1123/gyu1123" alt="Stars Badge"/></a>
-<a href="https://github.com/9dongb/9dongb/network/members"><img src="https://img.shields.io/github/forks/gyu1123/gyu1123" alt="Forks Badge"/></a>
-<a href="https://github.com/9dongb/9dongb/pulls"><img src="https://img.shields.io/github/issues-pr/gyu1123/gyu1123" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/9dongb/9dongb/issues"><img src="https://img.shields.io/github/issues/gyu1123/gyu1123" alt="Issues Badge"/></a>
-<a href="https://github.com/9dongb/9dongb/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/gyu1123/gyu1123?color=2b9348"></a>
+<a href="https://github.com/gyu1123/gyu1123/stargazers"><img src="https://img.shields.io/github/stars/gyu1123/gyu1123" alt="Stars Badge"/></a>
+<a href="https://github.com/gyu1123/gyu1123/network/members"><img src="https://img.shields.io/github/forks/gyu1123/gyu1123" alt="Forks Badge"/></a>
+<a href="https://github.com/gyu1123/gyu1123/pulls"><img src="https://img.shields.io/github/issues-pr/gyu1123/gyu1123" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/gyu1123/gyu1123/issues"><img src="https://img.shields.io/github/issues/gyu1123/gyu1123" alt="Issues Badge"/></a>
+<a href="https://github.com/gyu1123/gyu1123/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/gyu1123/gyu1123?color=2b9348"></a>
 
 <br>
   
