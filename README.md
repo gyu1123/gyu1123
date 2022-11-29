@@ -26,6 +26,14 @@
   
 <br>
   <img src="http://mazandi.herokuapp.com/api?handle={gyu1123}&theme=warm"/>
+  
+<br>
+## My GitHub🌱
+<a href="https://github.com/9dongb/9dongb/stargazers"><img src="https://img.shields.io/github/stars/9dongb/9dongb" alt="Stars Badge"/></a>
+<a href="https://github.com/9dongb/9dongb/network/members"><img src="https://img.shields.io/github/forks/9dongb/9dongb" alt="Forks Badge"/></a>
+<a href="https://github.com/9dongb/9dongb/pulls"><img src="https://img.shields.io/github/issues-pr/9dongb/9dongb" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/9dongb/9dongb/issues"><img src="https://img.shields.io/github/issues/9dongb/9dongb" alt="Issues Badge"/></a>
+<a href="https://github.com/9dongb/9dongb/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/9dongb/9dongb?color=2b9348"></a>
 
   
 <Br>
@@ -52,6 +60,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyu1123&show_icons=true&theme=radical)
   
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
   
 
