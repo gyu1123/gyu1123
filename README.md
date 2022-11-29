@@ -32,8 +32,11 @@
 | 세부 팀과제 6 | 내용정리 및 사용평가 | [내용정리 및 사용평가](https://github.com/gyu1123/TeamProject/blob/main/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC%20%EB%B0%8F%20%EC%82%AC%EC%9A%A9%20%ED%8F%89%EA%B0%80.md) |
   
 <br>
-  <img src="http://mazandi.herokuapp.com/api?handle={gyu1123}&theme=warm"/>
-  
+
+![](https://github-readme-stats.vercel.app/api?username=echo2719&theme=default&hide_border=true&include_all_commits=false&count_private=true)
+
+[![](https://raw.githubusercontent.com/little7279/for-profile-test/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)&nbsp;&nbsp;[![](https://raw.githubusercontent.com/little7279/for-profile-test/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+&nbsp;[![](https://raw.githubusercontent.com/little7279/for-profile-test/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
   
 <Br>
