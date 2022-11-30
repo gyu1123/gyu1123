@@ -59,6 +59,8 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=ffffff"/>
 <br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128C?style=for-the-badge&logo=Unreal Engine&logoColor=ffffff"/>
 <br>
 
