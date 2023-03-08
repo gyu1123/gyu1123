@@ -31,10 +31,11 @@
 | 세부 팀과제 4 | 교재(git 교과서) 8장 정리 | [git 교과서 8장 정리](https://github.com/robotos1/TeamProject/blob/bda0486fa702f531276ec3980eba956396618c63/git%20%EA%B5%90%EA%B3%BC%EC%84%9C%208%EC%9E%A5%20%EC%A0%95%EB%A6%AC.md) |  
 | 세부 팀과제 5 | 교재(git 교과서) 9장 정리 | [git 교과서 9장 정리](https://github.com/robotos1/TeamProject/blob/bda0486fa702f531276ec3980eba956396618c63/git%20%EA%B5%90%EA%B3%BC%EC%84%9C%209%EC%9E%A5%20%EC%A0%95%EB%A6%AC.md) |
 | 세부 팀과제 6 | 내용정리 및 사용평가 | [내용정리 및 사용평가](https://github.com/gyu1123/TeamProject/blob/main/%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC%20%EB%B0%8F%20%EC%82%AC%EC%9A%A9%20%ED%8F%89%EA%B0%80.md) |
-  
+| 학원 과제 | 내용정리 및 사용 | [내용정리 및 사용](https://github.com/gyu1123/learn-basic-c-language/blob/main/README.md)|
+    
 <br>
 
-
+https://github.com/gyu1123/learn-basic-c-language/blob/main/README.md
 
 
 
