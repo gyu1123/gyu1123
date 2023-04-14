@@ -35,7 +35,7 @@
     
 <br>
 
-https://github.com/gyu1123/learn-basic-c-language/blob/main/README.md
+
 
 
 
